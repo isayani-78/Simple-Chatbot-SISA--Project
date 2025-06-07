@@ -1,0 +1,35 @@
+{
+    "name": "SISA",
+    "description": "",
+    "author" : [
+        "Sayani Maity",
+        "Srijan Bhattacharyya"
+    ],
+    "version": "0.1.6 BETA",
+    "verbose": true,
+    "bot-commands": {
+        "quit": "gudfy"
+    },
+    "dependencies": {
+        "google": "google",
+        "requests": "requests"
+    },
+    "GeminiAI": {
+        "temperature": 1,
+        "top_p": 0.95,
+        "top_k": 64,
+        "max_output_tokens": 8192,
+        "response_mime_type": "text/plain"
+    },
+    "google-search": {},
+    "credentials": {
+        "gemini": {
+            "model-name": "gemini-1.5-pro",
+            "api-key": null
+        },
+        "g-search": {
+            "id": null,
+            "api-key": null
+        }
+    }
+}

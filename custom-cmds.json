@@ -1,0 +1,18 @@
+{
+    "greetings": [
+        "hello",
+        "hi",
+        "hey",
+        "how are you",
+        "how are you doing",
+        "how are you doing?",
+        "how are you doing?"
+    ],
+    "endings": [
+        "bye",
+        "goodbye",
+        "see you later",
+        "see you soon",
+        "see you again"
+    ]
+}
