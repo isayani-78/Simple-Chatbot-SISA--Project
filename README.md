@@ -109,4 +109,4 @@ python main.py
 ---
 
 
-> Built to bring AI-powered assistance to your terminal — on any OS. 🚀
+> ### Built to bring AI-powered assistance to your terminal — on any OS. 🚀
