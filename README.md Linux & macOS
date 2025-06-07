@@ -1,0 +1,101 @@
+# Simple-Chatbot-SISA--Project
+SISA is a terminal-based AI chatbot built in Python that combines the power of Google Gemini AI and Google Custom Search API to provide intelligent, real-time responses. It works entirely from the command line with support for both Linux/macOS , offering color-coded feedback, smart phrase detection, and dynamic search capabilities.
+# 🤖 Simple Chatbot (SISA) — Linux/macOS Version
+
+This version of the chatbot is designed to run on any **Linux** or **macOS** terminal, with rich colored output and full functionality using Google Gemini and Custom Search APIs.
+
+---
+
+## ✅ Requirements
+
+- Python 3.8 or higher
+- Internet connection
+- Google Gemini API key
+- Google Programmable Search API key
+
+---
+
+## 📦 Installation Instructions
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/isayani-78/simple-chatbot-project.git
+cd simple-chatbot-project/Simple_chatbot_linux_version
+```
+
+---
+
+### 2. Install Dependencies
+
+```bash
+python3 setup.py
+```
+
+This installs all required packages as listed in `settings.json`.
+
+---
+
+### 3. Set Up API Keys
+
+Open `settings.json` and add your API keys:
+
+```json
+"credentials": {
+  "gemini": {
+    "api-key": "your_gemini_api_key",
+    "model-name": "gemini-pro"
+  },
+  "g-search": {
+    "api-key": "your_google_search_api_key",
+    "id": "your_custom_search_engine_id"
+  }
+}
+```
+
+---
+
+## 💬 Run the Chatbot
+
+```bash
+python3 main.py
+```
+
+Example interactions:
+
+```bash
+🤖 Ask me anything...
+search best Linux distros
+help
+exit
+```
+
+---
+
+## 📚 Helpful Files
+
+- `manual.txt`: Built-in CLI instructions
+- `guide.json`: How to get API keys
+- `custom-cmds.json`: Extra phrase mappings (optional)
+
+---
+
+## 🧠 Features
+
+- Gemini AI chat with rich text output
+- Google Search for live results
+- Colorized terminal experience using ANSI escape codes
+- Clean modular structure (easy to extend)
+
+---
+
+## 🙋 Author
+
+Created by: **Sayani Maity**  
+            **Srijan Bhattacharyya @srijan-76448**
+GitHub: [@isayani-78](https://github.com/isayani-78)
+        [@srijan-76448](https://github.com/srijan-76448) 
+
+---
+
+Enjoy your smart terminal chatbot! 🎉
