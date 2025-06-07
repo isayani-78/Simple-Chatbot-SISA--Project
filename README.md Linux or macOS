@@ -1,10 +1,10 @@
-# 🤖 Simple Chatbot (SISA) — Smart Interactive Search Assistant
+### 🤖 Simple Chatbot (SISA) — Smart Interactive Search Assistant
 
 SISA is a terminal-based AI chatbot built using **Python**, designed to deliver intelligent, real-time responses using the **Google Gemini API** and **Google Programmable Search Engine (CSE)**. It supports both **Linux/macOS** and **Windows** platforms with tailored configurations.
 
 ---
 
-## 📁 Project Structure
+### 📁 Project Structure
 
 ```
 Simple-Chatbot-SISA--Project/
@@ -21,7 +21,7 @@ Simple-Chatbot-SISA--Project/
 
 ---
 
-## ✅ Requirements
+### ✅ Requirements
 
 - Python 3.8 or newer
 - Internet connection
@@ -31,7 +31,7 @@ Simple-Chatbot-SISA--Project/
 
 ---
 
-## 🧩 How It Works
+### 🧩 How It Works
 
 - The chatbot accepts questions via terminal input.
 - If the query starts with `search`, it uses Google Search API.
@@ -40,7 +40,7 @@ Simple-Chatbot-SISA--Project/
 
 ---
 
-## 🔐 API Setup
+### 🔐 API Setup
 
 You'll need 3 keys:
 
@@ -67,7 +67,7 @@ Place them inside the `settings.json` file for each version:
 
 ---
 
-## 🖥️ How to Run
+### 🖥️ How to Run
 
 ### For Linux/macOS
 
@@ -87,7 +87,7 @@ python main.py
 
 ---
 
-## 📚 Files Overview
+### 📚 Files Overview
 
 - `main.py` — Entry point of the chatbot
 - `gemini.py` — Gemini AI interaction handler
@@ -99,7 +99,7 @@ python main.py
 
 ---
 
-## ✨ Features
+### ✨ Features
 
 - AI-powered responses using Google Gemini
 - Real-time search via Google Programmable Search
