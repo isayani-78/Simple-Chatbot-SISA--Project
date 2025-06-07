@@ -111,7 +111,7 @@ exit
 
 ## 🙋 Author
 
-Developed by: **Your Name**  
+Developed by: **Sayani Maity**  
 GitHub: [@isayani-78](https://github.com/isayani-78)
 
 ---
