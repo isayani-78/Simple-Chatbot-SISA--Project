@@ -1,4 +1,4 @@
-##  Creators
+## Creator
 
 Created by: **Sayani Maity**  
             **Srijan Bhattacharyya**
