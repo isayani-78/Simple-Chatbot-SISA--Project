@@ -1,4 +1,4 @@
-## 🙋 Creators
+##  Creators
 
 Created by: **Sayani Maity**  
             **Srijan Bhattacharyya**
