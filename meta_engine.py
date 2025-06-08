@@ -10,7 +10,7 @@ def get_internal_meta():
     Returns hidden meta info like authors and project version.
     """
     return {
-        "authors": ["Sayani Maity @isayani-78", "Srijan Bhattacharyya@srijan-76448"],
+        "authors": ["Sayani Maity @isayani-78", "Srijan Bhattacharyya @srijan-76448"],
         "version": "0.1.6 BETA",
         "project_name": "SISA - Smart Interactive Search Assistant",
         "license": "MIT",
