@@ -1,4 +1,4 @@
-# 🚀 How to Use the Simple Chatbot "SISA"(Linux/macOS Version)
+# 🚀 How to Use the Simple Chatbot "SISA" [Smart Interactive Search Assistant](Linux/macOS Version)
 
 Welcome! This guide explains how to set up and run the AI-powered chatbot on any **Linux or macOS** system.
 
